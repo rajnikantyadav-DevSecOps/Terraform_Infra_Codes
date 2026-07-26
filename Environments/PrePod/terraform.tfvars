@@ -8,6 +8,11 @@ rgs = {
     name     = "rg2"
     location = "centralus"
   }
+
+    rg3 = {
+    name     = "rg3"
+    location = "centralus"
+  }
 }
 
 vnets = {
